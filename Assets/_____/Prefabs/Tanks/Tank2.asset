@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ce45fb3e4fd66d4abc0ad2953e49502, type: 3}
+  m_Name: Tank2
+  m_EditorClassIdentifier: 
+  TankVisualPrefab: {fileID: 2334161992416134371, guid: 82b22703dcbfd024e850ac64e5e2db58, type: 3}
+  Name: T-90
+  StartSpeedUpgrade: 5
+  StartShootingUpgrade: 7
+  BuyPrice: 5000
+  TankImageSprite: {fileID: 21300000, guid: 33b381f6a64de894488ea876b08e2257, type: 3}
+  UpgradePrices: dc050000c4090000ac0d0000941100007c150000641900004c1d000034210000

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ce45fb3e4fd66d4abc0ad2953e49502, type: 3}
+  m_Name: Tank1
+  m_EditorClassIdentifier: 
+  TankVisualPrefab: {fileID: 7280083832347455237, guid: 2169b31f606c83d4c844ec0298ac6269, type: 3}
+  Name: FV511
+  StartSpeedUpgrade: 3
+  StartShootingUpgrade: 5
+  BuyPrice: 0
+  TankImageSprite: {fileID: 0}
+  UpgradePrices: e8030000dc050000d0070000c4090000b80b0000ac0d0000a00f000094110000881300007c1500007017000064190000581b0000
